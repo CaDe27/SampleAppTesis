@@ -1,0 +1,14 @@
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app/__init__.py
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service
+ * Serving Flask app 'app'
+ * Debug mode: on
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app/__init__.py
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app/__init__.py
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app/__init__.py
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service/app
+/Users/carlosdelgado/Desktop/Escuela/10Semestre/SeminarioTitulacion/Implementacion/SampleApp/services/product_catalog_service

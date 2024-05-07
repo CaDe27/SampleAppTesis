@@ -1,0 +1,845 @@
+movieId,title,genres,price_USD
+4054,Save the Last Dance (2001),Drama|Romance,14.51
+4069,"Wedding Planner, The (2001)",Comedy|Romance,6.21
+4148,Hannibal (2001),Horror|Thriller,6.63
+4149,Saving Silverman (Evil Woman) (2001),Comedy|Romance,10.45
+4153,Down to Earth (2001),Comedy|Fantasy|Romance,14.0
+4161,"Mexican, The (2001)",Action|Comedy,14.16
+4167,15 Minutes (2001),Thriller,18.84
+4223,Enemy at the Gates (2001),Drama,11.58
+4228,Heartbreakers (2001),Comedy|Crime|Romance,14.43
+4232,Spy Kids (2001),Action|Adventure|Children|Comedy,19.04
+4238,Along Came a Spider (2001),Action|Crime|Mystery|Thriller,7.07
+4239,Blow (2001),Crime|Drama,15.66
+4246,Bridget Jones's Diary (2001),Comedy|Drama|Romance,13.65
+4247,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance,15.06
+4254,Crocodile Dundee in Los Angeles (2001),Comedy|Drama,7.84
+4270,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller,7.57
+4299,"Knight's Tale, A (2001)",Action|Comedy|Romance,14.81
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,15.25
+4308,Moulin Rouge (2001),Drama|Romance,16.91
+4310,Pearl Harbor (2001),Action|Drama|Romance,5.9
+4340,"Animal, The (2001)",Comedy,19.39
+4343,Evolution (2001),Comedy|Sci-Fi,5.92
+4344,Swordfish (2001),Action|Crime|Drama,11.73
+4366,Atlantis: The Lost Empire (2001),Adventure|Animation|Children|Fantasy,14.71
+4367,Lara Croft: Tomb Raider (2001),Action|Adventure,9.24
+4368,Dr. Dolittle 2 (2001),Comedy,12.1
+4369,"Fast and the Furious, The (2001)",Action|Crime|Thriller,19.98
+4370,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,18.14
+4386,Cats & Dogs (2001),Children|Comedy,8.88
+4388,Scary Movie 2 (2001),Comedy,12.22
+4446,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi,5.84
+4447,Legally Blonde (2001),Comedy|Romance,10.81
+4448,"Score, The (2001)",Action|Drama,13.81
+4638,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller,11.4
+4639,America's Sweethearts (2001),Comedy|Romance,12.25
+4641,Ghost World (2001),Comedy|Drama,15.49
+4643,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi,14.06
+4700,"Princess Diaries, The (2001)",Children|Comedy|Romance,14.54
+4701,Rush Hour 2 (2001),Action|Comedy,14.13
+4718,American Pie 2 (2001),Comedy,9.7
+4720,"Others, The (2001)",Drama|Horror|Mystery|Thriller,18.14
+4728,Rat Race (2001),Comedy,18.15
+4734,Jay and Silent Bob Strike Back (2001),Adventure|Comedy,7.39
+4776,Training Day (2001),Crime|Drama|Thriller,6.05
+4816,Zoolander (2001),Comedy,6.44
+4823,Serendipity (2001),Comedy|Romance,19.34
+4848,Mulholland Drive (2001),Crime|Drama|Mystery|Thriller,17.82
+4865,From Hell (2001),Crime|Horror|Mystery|Thriller,9.72
+4873,Waking Life (2001),Animation|Drama|Fantasy,6.29
+4874,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi,17.02
+4876,Thirteen Ghosts (a.k.a. Thir13en Ghosts) (2001),Horror|Thriller,5.21
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,8.07
+4881,"Man Who Wasn't There, The (2001)",Crime|Drama,10.5
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,10.74
+4887,"One, The (2001)",Action|Sci-Fi|Thriller,19.52
+4890,Shallow Hal (2001),Comedy|Fantasy|Romance,10.59
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,14.1
+4901,Spy Game (2001),Action|Crime|Drama|Thriller,11.62
+4902,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",Drama|Fantasy|Horror|Thriller,7.59
+4903,In the Bedroom (2001),Drama,7.22
+4958,Behind Enemy Lines (2001),Action|Drama,8.27
+4963,Ocean's Eleven (2001),Crime|Thriller,8.89
+4967,No Man's Land (2001),Drama,9.41
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,6.56
+4974,Not Another Teen Movie (2001),Comedy,7.5
+4975,Vanilla Sky (2001),Mystery|Romance|Sci-Fi|Thriller,5.92
+4979,"Royal Tenenbaums, The (2001)",Comedy|Drama,11.82
+4992,Kate & Leopold (2001),Comedy|Romance,19.44
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,9.91
+4994,"Majestic, The (2001)",Comedy|Drama|Romance,14.75
+4995,"Beautiful Mind, A (2001)",Drama|Romance,14.42
+5010,Black Hawk Down (2001),Action|Drama,11.78
+5013,Gosford Park (2001),Comedy|Drama|Mystery,17.89
+5014,I Am Sam (2001),Drama,10.42
+5015,Monster's Ball (2001),Drama|Romance,15.02
+5025,Orange County (2002),Comedy,7.74
+5026,"Brotherhood of the Wolf (Pacte des loups, Le) (2001)",Action|Mystery|Thriller,11.89
+5064,The Count of Monte Cristo (2002),Action|Adventure|Drama|Thriller,6.59
+5065,"Mothman Prophecies, The (2002)",Drama|Fantasy|Horror|Mystery|Thriller,9.12
+5066,"Walk to Remember, A (2002)",Drama|Romance,9.48
+5072,Metropolis (2001),Animation|Sci-Fi,15.49
+5108,John Q (2002),Crime|Drama|Thriller,15.34
+5110,Super Troopers (2001),Comedy|Crime|Mystery,18.86
+5128,Queen of the Damned (2002),Fantasy|Horror,11.9
+5135,Monsoon Wedding (2001),Comedy|Romance,15.66
+5152,We Were Soldiers (2002),Action|Drama,13.99
+5171,"Time Machine, The (2002)",Action|Adventure|Sci-Fi,18.56
+5218,Ice Age (2002),Adventure|Animation|Children|Comedy,17.27
+5219,Resident Evil (2002),Action|Horror|Sci-Fi|Thriller,9.25
+5220,Showtime (2002),Action|Comedy,14.64
+5254,Blade II (2002),Action|Horror|Thriller,14.33
+5265,Death to Smoochy (2002),Comedy|Crime|Drama,6.74
+5266,Panic Room (2002),Thriller,16.94
+5267,"Rookie, The (2002)",Drama,6.01
+5283,National Lampoon's Van Wilder (2002),Comedy,5.0
+5294,Frailty (2001),Crime|Drama|Thriller,15.45
+5296,"Sweetest Thing, The (2002)",Comedy|Romance,8.0
+5299,My Big Fat Greek Wedding (2002),Comedy|Romance,18.71
+5313,The Scorpion King (2002),Action|Adventure|Fantasy|Thriller,16.53
+5329,"Salton Sea, The (2002)",Crime|Drama|Thriller,14.55
+5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,8.87
+5377,About a Boy (2002),Comedy|Drama|Romance,14.31
+5378,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi,6.48
+5380,"Importance of Being Earnest, The (2002)",Comedy|Drama|Romance,10.67
+5388,Insomnia (2002),Action|Crime|Drama|Mystery|Thriller,5.34
+5400,"Sum of All Fears, The (2002)",Drama|Thriller,16.88
+5418,"Bourne Identity, The (2002)",Action|Mystery|Thriller,12.29
+5419,Scooby-Doo (2002),Adventure|Children|Comedy|Fantasy|Mystery,17.24
+5444,Lilo & Stitch (2002),Adventure|Animation|Children|Sci-Fi,7.79
+5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,19.04
+5449,Mr. Deeds (2002),Comedy|Romance,14.93
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Action|Comedy|Sci-Fi,13.24
+5463,Reign of Fire (2002),Action|Adventure|Fantasy,7.65
+5464,Road to Perdition (2002),Crime|Drama,20.0
+5481,Austin Powers in Goldmember (2002),Comedy,17.47
+5502,Signs (2002),Horror|Sci-Fi|Thriller,18.24
+5505,"Good Girl, The (2002)",Comedy|Drama,8.77
+5507,xXx (2002),Action|Crime|Thriller,12.66
+5528,One Hour Photo (2002),Drama|Thriller,10.07
+5574,"Transporter, The (2002)",Action|Crime,16.2
+5577,Igby Goes Down (2002),Comedy|Drama,14.21
+5608,"Das Experiment (Experiment, The) (2001)",Drama|Thriller,9.44
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,16.57
+5620,Sweet Home Alabama (2002),Comedy|Romance,8.99
+5621,"Tuxedo, The (2002)",Action|Comedy,9.48
+5630,Red Dragon (2002),Crime|Mystery|Thriller,6.4
+5669,Bowling for Columbine (2002),Documentary,13.92
+5673,Punch-Drunk Love (2002),Comedy|Drama|Romance,14.7
+5679,"Ring, The (2002)",Horror|Mystery|Thriller,18.09
+5785,Jackass: The Movie (2002),Action|Comedy|Documentary,19.78
+5791,Frida (2002),Drama|Romance,7.79
+5810,8 Mile (2002),Drama,15.01
+5812,Far from Heaven (2002),Drama|Romance,11.35
+5816,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy,17.39
+5872,Die Another Day (2002),Action|Adventure|Thriller,7.76
+5878,Talk to Her (Hable con Ella) (2002),Drama|Romance,9.07
+5881,Solaris (2002),Drama|Romance|Sci-Fi,8.4
+5902,Adaptation (2002),Comedy|Drama|Romance,17.9
+5903,Equilibrium (2002),Action|Sci-Fi|Thriller,14.17
+5943,Maid in Manhattan (2002),Comedy|Romance,16.85
+5944,Star Trek: Nemesis (2002),Action|Drama|Sci-Fi|Thriller,9.0
+5945,About Schmidt (2002),Comedy|Drama,8.18
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,18.54
+5954,25th Hour (2002),Crime|Drama,19.78
+5956,Gangs of New York (2002),Crime|Drama,6.96
+5957,Two Weeks Notice (2002),Comedy|Romance,17.26
+5989,Catch Me If You Can (2002),Crime|Drama,12.06
+5991,Chicago (2002),Comedy|Crime|Drama,9.23
+5992,"Hours, The (2002)",Drama|Romance,9.42
+5995,"Pianist, The (2002)",Drama,9.34
+6003,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Thriller,6.22
+6016,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,15.98
+6058,Final Destination 2 (2003),Horror|Thriller,12.29
+6059,"Recruit, The (2003)",Action|Thriller,14.16
+6155,How to Lose a Guy in 10 Days (2003),Comedy|Romance,5.52
+6156,Shanghai Knights (2003),Action|Adventure|Comedy,18.38
+6157,Daredevil (2003),Action|Crime,6.19
+6188,Old School (2003),Comedy,15.88
+6218,Bend It Like Beckham (2002),Comedy|Drama|Romance,15.06
+6281,Phone Booth (2002),Drama|Thriller,18.65
+6283,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller,15.41
+6287,Anger Management (2003),Comedy,16.21
+6294,Bulletproof Monk (2003),Action|Adventure|Sci-Fi,17.95
+6296,"Mighty Wind, A (2003)",Comedy,18.89
+6297,Holes (2003),Adventure|Children|Comedy|Mystery,14.59
+6323,Identity (2003),Crime|Horror|Mystery|Thriller,11.35
+6331,Spellbound (2002),Documentary,9.56
+6333,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller,8.69
+6365,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller,7.48
+6367,Down with Love (2003),Comedy|Romance,11.91
+6373,Bruce Almighty (2003),Comedy|Drama|Fantasy|Romance,16.33
+6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,15.25
+6378,"Italian Job, The (2003)",Action|Crime,12.86
+6383,"2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",Action|Crime|Thriller,16.67
+6385,Whale Rider (2002),Drama,12.32
+6482,Dumb and Dumberer: When Harry Met Lloyd (2003),Comedy,14.27
+6502,28 Days Later (2002),Action|Horror|Sci-Fi,13.7
+6503,Charlie's Angels: Full Throttle (2003),Action|Adventure|Comedy|Crime|Thriller,15.05
+6534,Hulk (2003),Action|Adventure|Sci-Fi,8.55
+6535,"Legally Blonde 2: Red, White & Blonde (2003)",Comedy,14.29
+6537,Terminator 3: Rise of the Machines (2003),Action|Adventure|Sci-Fi,13.81
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,19.55
+6541,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",Action|Fantasy|Sci-Fi,9.35
+6548,Bad Boys II (2003),Action|Comedy|Crime|Thriller,7.72
+6550,Johnny English (2003),Action|Comedy|Thriller,15.29
+6552,Dirty Pretty Things (2002),Crime|Drama|Thriller,19.51
+6564,Lara Croft Tomb Raider: The Cradle of Life (2003),Action|Adventure|Comedy|Romance|Thriller,6.49
+6565,Seabiscuit (2003),Drama,19.42
+6586,American Wedding (American Pie 3) (2003),Comedy,16.65
+6593,Freaky Friday (2003),Children|Comedy|Fantasy,11.32
+6595,S.W.A.T. (2003),Action|Thriller,14.19
+6618,Shaolin Soccer (Siu lam juk kau) (2001),Action|Comedy,17.95
+6620,American Splendor (2003),Comedy|Drama,15.25
+6708,Matchstick Men (2003),Comedy|Crime|Drama,10.77
+6709,Once Upon a Time in Mexico (2003),Action|Adventure|Crime|Thriller,18.44
+6711,Lost in Translation (2003),Comedy|Drama|Romance,7.43
+6753,Secondhand Lions (2003),Children|Comedy|Drama,13.02
+6754,Underworld (2003),Action|Fantasy|Horror,10.82
+6755,Bubba Ho-tep (2002),Comedy|Horror,15.47
+6764,"Rundown, The (2003)",Action|Adventure|Comedy,17.6
+6773,"Triplets of Belleville, The (Les triplettes de Belleville) (2003)",Animation|Comedy|Fantasy,19.08
+6863,School of Rock (2003),Comedy,14.11
+6867,"Station Agent, The (2003)",Comedy|Drama,9.89
+6870,Mystic River (2003),Crime|Drama|Mystery,17.86
+6873,Intolerable Cruelty (2003),Comedy|Romance,17.11
+6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,18.76
+6879,Runaway Jury (2003),Drama|Thriller,18.57
+6888,Scary Movie 3 (2003),Comedy|Horror,6.98
+6934,"Matrix Revolutions, The (2003)",Action|Adventure|Sci-Fi|Thriller,10.88
+6936,Elf (2003),Children|Comedy|Fantasy,12.0
+6942,Love Actually (2003),Comedy|Drama|Romance,5.41
+6947,Master and Commander: The Far Side of the World (2003),Adventure|Drama,9.05
+6953,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,8.99
+6957,Bad Santa (2003),Comedy|Crime,7.81
+6958,"Haunted Mansion, The (2003)",Children|Comedy|Fantasy|Horror,10.53
+7090,Hero (Ying xiong) (2002),Action|Adventure|Drama,14.94
+7137,"Cooler, The (2003)",Comedy|Drama|Romance,8.71
+7143,"Last Samurai, The (2003)",Action|Adventure|Drama,8.91
+7147,Big Fish (2003),Drama|Fantasy|Romance,6.92
+7149,Something's Gotta Give (2003),Comedy|Drama|Romance,6.56
+7150,Stuck on You (2003),Comedy,5.68
+7151,Girl with a Pearl Earring (2003),Drama|Romance,14.76
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,11.43
+7154,Mona Lisa Smile (2003),Drama|Romance,18.09
+7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary,10.77
+7160,Monster (2003),Crime|Drama,8.5
+7162,Cold Mountain (2003),Drama|Romance,19.76
+7163,Paycheck (2003),Action|Sci-Fi|Thriller,14.26
+7173,Along Came Polly (2004),Comedy|Romance,10.84
+7254,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,19.2
+7263,Miracle (2004),Drama,15.66
+7265,"Dreamers, The (2003)",Drama,11.77
+7293,50 First Dates (2004),Comedy|Romance,17.85
+7317,EuroTrip (2004),Adventure|Comedy,18.36
+7323,"Good bye, Lenin! (2003)",Comedy|Drama,15.04
+7324,Hidalgo (2004),Adventure|Drama,17.91
+7325,Starsky & Hutch (2004),Action|Comedy|Crime|Thriller,10.51
+7347,Secret Window (2004),Mystery|Thriller,15.18
+7360,Dawn of the Dead (2004),Action|Drama|Horror|Thriller,10.99
+7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,8.96
+7367,"Ladykillers, The (2004)",Comedy|Crime,9.72
+7371,Dogville (2003),Drama|Mystery|Thriller,7.37
+7373,Hellboy (2004),Action|Adventure|Fantasy|Horror,12.56
+7438,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,17.7
+7439,"Punisher, The (2004)",Action|Crime|Thriller,9.43
+7444,13 Going on 30 (2004),Comedy|Fantasy|Romance,11.76
+7445,Man on Fire (2004),Action|Crime|Drama|Mystery|Thriller,19.48
+7451,Mean Girls (2004),Comedy,14.23
+7454,Van Helsing (2004),Action|Adventure|Fantasy|Horror,12.7
+7458,Troy (2004),Action|Adventure|Drama,18.44
+8014,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",Drama,15.09
+8360,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Romance,12.46
+8361,"Day After Tomorrow, The (2004)",Action|Adventure|Drama|Sci-Fi|Thriller,9.39
+8366,Saved! (2004),Comedy|Drama,11.0
+8368,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Fantasy,10.46
+8370,"Blind Swordsman: Zatoichi, The (Zatôichi) (2003)",Action|Comedy|Crime|Drama,11.23
+8371,"Chronicles of Riddick, The (2004)",Action|Sci-Fi|Thriller,19.24
+8373,"Stepford Wives, The (2004)",Comedy|Fantasy|Thriller,9.28
+8376,Napoleon Dynamite (2004),Comedy,6.02
+8464,Super Size Me (2004),Comedy|Documentary|Drama,12.0
+8528,Dodgeball: A True Underdog Story (2004),Comedy,8.12
+8529,"Terminal, The (2004)",Comedy|Drama|Romance,10.82
+8533,"Notebook, The (2004)",Drama|Romance,9.65
+8622,Fahrenheit 9/11 (2004),Documentary,19.44
+8636,Spider-Man 2 (2004),Action|Adventure|Sci-Fi,12.82
+8638,Before Sunset (2004),Drama|Romance,13.55
+8640,King Arthur (2004),Action|Adventure|Drama,11.8
+8641,Anchorman: The Legend of Ron Burgundy (2004),Comedy,9.74
+8644,"I, Robot (2004)",Action|Adventure|Sci-Fi|Thriller,18.54
+8665,"Bourne Supremacy, The (2004)",Action|Crime|Thriller,16.08
+8781,"Manchurian Candidate, The (2004)",Thriller,5.87
+8783,"Village, The (2004)",Drama|Mystery|Thriller,8.62
+8784,Garden State (2004),Comedy|Drama|Romance,9.91
+8798,Collateral (2004),Action|Crime|Drama|Thriller,15.82
+8807,Harold and Kumar Go to White Castle (2004),Adventure|Comedy,5.43
+8810,AVP: Alien vs. Predator (2004),Action|Horror|Sci-Fi|Thriller,6.74
+8861,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller,15.35
+8865,Sky Captain and the World of Tomorrow (2004),Action|Adventure|Sci-Fi,19.99
+8873,"Motorcycle Diaries, The (Diarios de motocicleta) (2004)",Adventure|Drama,5.29
+8874,Shaun of the Dead (2004),Comedy|Horror,14.55
+8907,Shark Tale (2004),Animation|Children|Comedy,19.61
+8910,I Heart Huckabees (2004),Comedy,13.84
+8914,Primer (2004),Drama|Sci-Fi,9.28
+8917,Team America: World Police (2004),Action|Adventure|Animation|Comedy,9.81
+8947,"Grudge, The (2004)",Horror|Mystery|Thriller,18.43
+8949,Sideways (2004),Comedy|Drama|Romance,15.37
+8950,The Machinist (2004),Drama|Mystery|Thriller,19.11
+8958,Ray (2004),Drama,8.97
+8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,15.44
+8965,"Polar Express, The (2004)",Adventure|Animation|Children|Fantasy,6.83
+8969,Bridget Jones: The Edge of Reason (2004),Comedy|Drama|Romance,19.47
+8970,Finding Neverland (2004),Drama,15.56
+8972,National Treasure (2004),Action|Adventure|Drama|Mystery|Thriller,15.39
+8977,Alexander (2004),Action|Adventure|Drama,15.89
+8981,Closer (2004),Drama|Romance,13.02
+8983,House of Flying Daggers (Shi mian mai fu) (2004),Action|Drama|Romance,10.9
+8984,Ocean's Twelve (2004),Action|Comedy|Crime|Thriller,7.29
+8985,Blade: Trinity (2004),Action|Fantasy|Horror|Thriller,13.88
+27611,Battlestar Galactica (2003),Drama|Sci-Fi,9.95
+27660,"Animatrix, The (2003)",Action|Animation|Drama|Sci-Fi,15.58
+27706,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy,9.26
+27773,Old Boy (2003),Mystery|Thriller,11.68
+27801,Ong-Bak: The Thai Warrior (Ong Bak) (2003),Action|Thriller,14.82
+27808,Spanglish (2004),Comedy|Drama|Romance,17.11
+27815,"Chorus, The (Choristes, Les) (2004)",Drama,12.99
+27831,Layer Cake (2004),Crime|Drama|Thriller,18.02
+27846,"Corporation, The (2003)",Documentary,19.47
+27904,"Scanner Darkly, A (2006)",Animation|Drama|Mystery|Sci-Fi|Thriller,10.5
+30707,Million Dollar Baby (2004),Drama,7.57
+30749,Hotel Rwanda (2004),Drama,11.74
+30793,Charlie and the Chocolate Factory (2005),Adventure|Children|Comedy|Fantasy,16.53
+30810,"Life Aquatic with Steve Zissou, The (2004)",Adventure|Comedy|Fantasy,15.21
+30812,"Aviator, The (2004)",Drama,7.08
+30816,"Phantom of the Opera, The (2004)",Drama|Romance,8.5
+30822,In Good Company (2004),Comedy|Drama,7.16
+30825,Meet the Fockers (2004),Comedy,11.6
+31221,Elektra (2005),Action|Adventure|Crime|Drama,17.62
+31410,"Downfall (Untergang, Der) (2004)",Drama,11.79
+31433,"Wedding Date, The (2005)",Comedy|Romance,16.83
+31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,13.64
+31685,Hitch (2005),Comedy|Romance,8.81
+31696,Constantine (2005),Action|Fantasy|Horror|Thriller,17.21
+31878,Kung Fu Hustle (Gong fu) (2004),Action|Comedy,5.45
+32029,Hostage (2005),Action|Crime|Drama|Thriller,14.96
+32031,Robots (2005),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,17.12
+32587,Sin City (2005),Action|Crime|Mystery|Thriller,5.08
+33004,"Hitchhiker's Guide to the Galaxy, The (2005)",Adventure|Comedy|Sci-Fi,6.63
+33162,Kingdom of Heaven (2005),Action|Drama|Romance,7.57
+33166,Crash (2004),Crime|Drama,18.03
+33493,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,7.06
+33615,Madagascar (2005),Adventure|Animation|Children|Comedy,11.08
+33660,Cinderella Man (2005),Drama|Romance,19.78
+33679,Mr. & Mrs. Smith (2005),Action|Adventure|Comedy|Romance,17.72
+33794,Batman Begins (2005),Action|Crime,15.95
+33836,Bewitched (2005),Comedy|Fantasy|Romance,16.63
+34048,War of the Worlds (2005),Action|Adventure|Sci-Fi|Thriller,17.45
+34072,"March of the Penguins (Marche de l'empereur, La) (2005)",Documentary,10.55
+34150,Fantastic Four (2005),Action|Adventure|Sci-Fi,9.0
+34162,Wedding Crashers (2005),Comedy|Romance,16.54
+34319,"Island, The (2005)",Action|Sci-Fi|Thriller,5.44
+34405,Serenity (2005),Action|Adventure|Sci-Fi,19.43
+34437,Broken Flowers (2005),Comedy|Drama,9.55
+34520,"Dukes of Hazzard, The (2005)",Action|Adventure|Comedy,7.54
+35836,"40-Year-Old Virgin, The (2005)",Comedy|Romance,12.86
+36401,"Brothers Grimm, The (2005)",Comedy|Fantasy|Horror|Thriller,7.74
+36517,"Constant Gardener, The (2005)",Drama|Thriller,11.91
+36519,Transporter 2 (2005),Action|Crime|Thriller,5.93
+36529,Lord of War (2005),Action|Crime|Drama|Thriller,16.12
+36708,Family Guy Presents Stewie Griffin: The Untold Story (2005),Adventure|Animation|Comedy,15.07
+37380,Doom (2005),Action|Horror|Sci-Fi,14.73
+37384,Waiting... (2005),Comedy,11.02
+37386,Aeon Flux (2005),Action|Sci-Fi,12.45
+37727,Flightplan (2005),Action|Drama|Thriller,6.28
+37729,Corpse Bride (2005),Animation|Comedy|Fantasy|Romance,13.96
+37733,"History of Violence, A (2005)",Action|Crime|Drama|Thriller,15.15
+37741,Capote (2005),Crime|Drama,19.13
+37830,Final Fantasy VII: Advent Children (2004),Action|Adventure|Animation|Fantasy|Sci-Fi,17.86
+38038,Wallace & Gromit in The Curse of the Were-Rabbit (2005),Adventure|Animation|Children|Comedy,19.72
+38061,Kiss Kiss Bang Bang (2005),Comedy|Crime|Mystery|Thriller,10.65
+39183,Brokeback Mountain (2005),Drama|Romance,5.29
+39292,"Good Night, and Good Luck. (2005)",Crime|Drama,5.84
+40278,Jarhead (2005),Action|Drama,19.8
+40583,Syriana (2005),Drama|Thriller,10.69
+40629,Pride & Prejudice (2005),Drama|Romance,7.19
+40732,"Descent, The (2005)",Adventure|Drama|Horror|Thriller,6.81
+40815,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller,13.76
+40819,Walk the Line (2005),Drama|Romance,7.38
+40826,Rent (2005),Drama|Romance,10.0
+41285,Match Point (2005),Crime|Drama|Romance,6.03
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Adventure|Children|Fantasy,7.09
+41569,King Kong (2005),Action|Adventure|Drama|Fantasy|Thriller,17.34
+41997,Munich (2005),Action|Crime|Drama|Thriller,17.75
+42011,Fun with Dick and Jane (2005),Comedy|Crime,16.41
+42723,Hostel (2005),Horror,18.76
+42738,Underworld: Evolution (2006),Action|Fantasy|Horror,15.04
+43928,Ultraviolet (2006),Action|Fantasy|Sci-Fi|Thriller,8.2
+44022,Ice Age 2: The Meltdown (2006),Adventure|Animation|Children|Comedy,9.25
+44191,V for Vendetta (2006),Action|Sci-Fi|Thriller,7.4
+44195,Thank You for Smoking (2006),Comedy|Drama,10.55
+44199,Inside Man (2006),Crime|Drama|Thriller,12.36
+44555,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,18.53
+44665,Lucky Number Slevin (2006),Crime|Drama|Mystery,18.11
+44761,Brick (2005),Crime|Drama|Mystery,14.54
+44840,"Benchwarmers, The (2006)",Comedy,9.45
+44972,Scary Movie 4 (2006),Comedy|Horror,12.95
+44974,Hard Candy (2005),Drama|Thriller,9.49
+45081,Silent Hill (2006),Fantasy|Horror|Thriller,8.2
+45186,Mission: Impossible III (2006),Action|Adventure|Thriller,15.7
+45431,Over the Hedge (2006),Adventure|Animation|Children|Comedy,16.65
+45447,"Da Vinci Code, The (2006)",Drama|Mystery|Thriller,6.48
+45499,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller,17.57
+45501,"Break-Up, The (2006)",Comedy|Drama|Romance,19.93
+45517,Cars (2006),Animation|Children|Comedy,12.21
+45666,Nacho Libre (2006),Comedy,18.14
+45668,"Lake House, The (2006)",Drama|Fantasy|Romance,8.63
+45672,Click (2006),Adventure|Comedy|Drama|Fantasy|Romance,9.97
+45720,"Devil Wears Prada, The (2006)",Comedy|Drama,9.11
+45722,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,15.8
+45728,Clerks II (2006),Comedy,10.89
+45880,Marie Antoinette (2006),Drama|Romance,16.72
+45950,"Inconvenient Truth, An (2006)",Documentary,18.69
+46335,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)",Action|Crime|Drama|Thriller,17.0
+46530,Superman Returns (2006),Action|Adventure|Sci-Fi,7.32
+46578,Little Miss Sunshine (2006),Adventure|Comedy|Drama,15.97
+46723,Babel (2006),Drama|Thriller,16.51
+46965,Snakes on a Plane (2006),Action|Comedy|Horror|Thriller,8.61
+46970,Talladega Nights: The Ballad of Ricky Bobby (2006),Action|Comedy,6.51
+46972,Night at the Museum (2006),Action|Comedy|Fantasy,7.73
+46976,Stranger than Fiction (2006),Comedy|Drama|Fantasy|Romance,18.88
+47044,Miami Vice (2006),Action|Crime|Drama|Thriller,14.06
+47099,"Pursuit of Happyness, The (2006)",Drama,7.03
+47200,Crank (2006),Action|Thriller,15.37
+47518,Accepted (2006),Comedy,18.88
+47610,"Illusionist, The (2006)",Drama|Fantasy|Mystery|Romance,14.26
+47629,The Queen (2006),Drama,18.85
+47997,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,18.02
+48043,"Fountain, The (2006)",Drama|Fantasy|Romance,16.23
+48082,"Science of Sleep, The (La science des rêves) (2006)",Comedy|Drama|Fantasy|Romance,5.74
+48304,Apocalypto (2006),Adventure|Drama|Thriller,15.57
+48385,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,14.78
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,16.3
+48516,"Departed, The (2006)",Crime|Drama|Thriller,10.39
+48738,"Last King of Scotland, The (2006)",Drama|Thriller,18.06
+48774,Children of Men (2006),Action|Adventure|Drama|Sci-Fi|Thriller,18.71
+48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,9.52
+48783,Flags of Our Fathers (2006),Drama,11.77
+49272,Casino Royale (2006),Action|Adventure|Thriller,7.78
+49274,Happy Feet (2006),Adventure|Animation|Children|Comedy,5.02
+49278,Déjà Vu (Deja Vu) (2006),Action|Sci-Fi|Thriller,17.15
+49286,"Holiday, The (2006)",Comedy|Romance,9.09
+49530,Blood Diamond (2006),Action|Adventure|Crime|Drama|Thriller,15.02
+49649,Eragon (2006),Action|Adventure|Fantasy,7.36
+49651,Rocky Balboa (2006),Action|Drama,9.5
+50068,Letters from Iwo Jima (2006),Drama,6.86
+50794,Smokin' Aces (2006),Action|Crime|Drama|Thriller,12.93
+50872,Ratatouille (2007),Animation|Children|Drama,9.01
+51077,Ghost Rider (2007),Action|Fantasy|Thriller,9.14
+51084,Music and Lyrics (2007),Comedy|Romance,14.92
+51086,"Number 23, The (2007)",Drama|Mystery|Thriller,6.27
+51255,Hot Fuzz (2007),Action|Comedy|Crime|Mystery,11.73
+51412,Next (2007),Action|Sci-Fi|Thriller,11.08
+51540,Zodiac (2007),Crime|Drama|Thriller,11.95
+51662,300 (2007),Action|Fantasy,16.03
+51935,Shooter (2007),Action|Drama|Thriller,14.73
+52245,Blades of Glory (2007),Comedy|Romance,16.29
+52281,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,9.1
+52287,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi,10.87
+52328,Sunshine (2007),Adventure|Drama|Sci-Fi|Thriller,10.39
+52458,Disturbia (2007),Drama|Thriller,14.18
+52604,Fracture (2007),Crime|Drama|Mystery|Thriller,7.79
+52722,Spider-Man 3 (2007),Action|Adventure|Sci-Fi|Thriller,5.26
+52973,Knocked Up (2007),Comedy|Drama|Romance,10.54
+52975,Hairspray (2007),Comedy|Drama,10.76
+53000,28 Weeks Later (2007),Horror|Sci-Fi|Thriller,19.91
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,6.11
+53125,Pirates of the Caribbean: At World's End (2007),Action|Adventure|Comedy|Fantasy,6.84
+53322,Ocean's Thirteen (2007),Crime|Thriller,14.72
+53464,Fantastic Four: Rise of the Silver Surfer (2007),Action|Adventure|Sci-Fi,19.53
+53519,Death Proof (2007),Action|Adventure|Crime|Horror|Thriller,17.36
+53894,Sicko (2007),Documentary|Drama,5.32
+53953,1408 (2007),Drama|Horror|Thriller,8.22
+53972,Live Free or Die Hard (2007),Action|Adventure|Crime|Thriller,16.44
+53993,Evan Almighty (2007),Comedy|Fantasy,18.71
+53996,Transformers (2007),Action|Sci-Fi|Thriller,18.75
+54001,Harry Potter and the Order of the Phoenix (2007),Adventure|Drama|Fantasy,17.23
+54004,I Now Pronounce You Chuck and Larry (2007),Comedy|Romance,6.63
+54190,Across the Universe (2007),Drama|Fantasy|Romance,5.04
+54259,Stardust (2007),Adventure|Comedy|Fantasy|Romance,10.44
+54272,"Simpsons Movie, The (2007)",Animation|Comedy,8.43
+54286,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,14.8
+54503,Superbad (2007),Comedy,19.34
+54881,"King of Kong, The (2007)",Documentary,12.83
+54995,Planet Terror (2007),Action|Horror|Sci-Fi,5.85
+54997,3:10 to Yuma (2007),Action|Crime|Drama,8.97
+54999,Shoot 'Em Up (2007),Action|Comedy|Crime,16.1
+55052,Atonement (2007),Drama|Romance,15.74
+55118,Eastern Promises (2007),Crime|Drama|Thriller,18.12
+55232,Resident Evil: Extinction (2007),Action|Horror|Sci-Fi|Thriller,11.2
+55247,Into the Wild (2007),Action|Adventure|Drama,16.58
+55269,"Darjeeling Limited, The (2007)",Adventure|Comedy|Drama,11.99
+55276,Michael Clayton (2007),Drama|Thriller,11.79
+55282,30 Days of Night (2007),Horror|Thriller,9.11
+55290,Gone Baby Gone (2007),Crime|Drama|Mystery,19.21
+55363,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",Crime|Drama,10.67
+55442,Persepolis (2007),Animation|Drama,13.47
+55721,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,14.87
+55765,American Gangster (2007),Crime|Drama|Thriller,14.04
+55768,Bee Movie (2007),Animation|Comedy,13.61
+55820,No Country for Old Men (2007),Crime|Drama,6.19
+55830,Be Kind Rewind (2008),Comedy,19.6
+56145,"Mist, The (2007)",Horror|Sci-Fi,13.69
+56152,Enchanted (2007),Adventure|Animation|Children|Comedy|Fantasy|Romance,6.51
+56171,"Golden Compass, The (2007)",Adventure|Children|Fantasy,7.11
+56174,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller,9.18
+56251,Futurama: Bender's Big Score (2007),Animation|Comedy|Sci-Fi,9.86
+56367,Juno (2007),Comedy|Drama|Romance,19.16
+56587,"Bucket List, The (2007)",Comedy|Drama,5.99
+56757,Sweeney Todd: The Demon Barber of Fleet Street (2007),Drama|Horror|Thriller,17.32
+56775,National Treasure: Book of Secrets (2007),Action|Adventure,10.65
+56782,There Will Be Blood (2007),Drama,7.02
+56941,P.S. I Love You (2007),Comedy|Drama|Romance,16.22
+56949,27 Dresses (2008),Comedy|Romance,17.72
+57368,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller,9.41
+57504,"Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)",Animation|Comedy|Drama|Romance|Sci-Fi,5.76
+57640,Hellboy II: The Golden Army (2008),Action|Adventure|Fantasy|Sci-Fi,10.8
+57669,In Bruges (2008),Comedy|Crime|Drama|Thriller,9.63
+58025,Jumper (2008),Action|Adventure|Drama|Sci-Fi|Thriller,11.01
+58047,"Definitely, Maybe (2008)",Comedy|Drama|Romance,11.09
+58156,Semi-Pro (2008),Comedy,7.55
+58293,"10,000 BC (2008)",Adventure|Romance|Thriller,9.54
+58295,"Bank Job, The (2008)",Action|Crime|Thriller,10.31
+58559,"Dark Knight, The (2008)",Action|Crime|Drama,11.96
+58803,21 (2008),Crime|Drama|Romance|Thriller,16.51
+58998,Forgetting Sarah Marshall (2008),Comedy|Romance,19.47
+59022,Harold & Kumar Escape from Guantanamo Bay (2008),Adventure|Comedy,17.53
+59258,Baby Mama (2008),Comedy,15.06
+59315,Iron Man (2008),Action|Adventure|Sci-Fi,10.09
+59369,Taken (2008),Action|Crime|Drama|Thriller,16.01
+59387,"Fall, The (2006)",Adventure|Drama|Fantasy,14.64
+59501,"Chronicles of Narnia: Prince Caspian, The (2008)",Adventure|Children|Fantasy,15.47
+59615,Indiana Jones and the Kingdom of the Crystal Skull (2008),Action|Adventure|Comedy|Sci-Fi,12.74
+59725,Sex and the City (2008),Comedy|Romance,10.29
+59784,Kung Fu Panda (2008),Action|Animation|Children|Comedy,10.8
+59900,You Don't Mess with the Zohan (2008),Comedy,9.45
+60040,"Incredible Hulk, The (2008)",Action|Sci-Fi,18.31
+60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,8.87
+60072,Wanted (2008),Action|Thriller,7.88
+60074,Hancock (2008),Action|Adventure|Comedy|Crime|Fantasy,15.76
+60126,Get Smart (2008),Action|Comedy,6.51
+60397,Mamma Mia! (2008),Comedy|Romance,5.13
+60684,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller,6.64
+60756,Step Brothers (2008),Comedy,17.34
+60950,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,19.29
+61024,Pineapple Express (2008),Action|Comedy|Crime,5.65
+61132,Tropic Thunder (2008),Action|Adventure|Comedy,16.01
+61240,Let the Right One In (Låt den rätte komma in) (2008),Drama|Fantasy|Horror|Romance,13.78
+61323,Burn After Reading (2008),Comedy|Crime|Drama,18.65
+62155,Nick and Norah's Infinite Playlist (2008),Comedy|Drama|Romance,9.76
+62374,Body of Lies (2008),Action|Drama|Thriller,16.18
+62849,RocknRolla (2008),Action|Crime,10.42
+62999,Madagascar: Escape 2 Africa (2008),Action|Adventure|Animation|Children|Comedy,6.59
+63082,Slumdog Millionaire (2008),Crime|Drama|Romance,15.89
+63113,Quantum of Solace (2008),Action|Adventure|Thriller,5.15
+63131,Role Models (2008),Comedy,18.92
+63859,Bolt (2008),Action|Adventure|Animation|Children|Comedy,19.27
+63876,Milk (2008),Drama,12.38
+63992,Twilight (2008),Drama|Fantasy|Romance|Thriller,17.62
+64614,Gran Torino (2008),Crime|Drama,5.52
+64716,Seven Pounds (2008),Drama,8.87
+64839,"Wrestler, The (2008)",Drama,9.15
+64957,"Curious Case of Benjamin Button, The (2008)",Drama|Fantasy|Mystery|Romance,6.33
+64969,Yes Man (2008),Comedy,5.61
+64983,Valkyrie (2008),Drama|Thriller,10.04
+65088,Bedtime Stories (2008),Adventure|Children|Comedy,19.72
+65230,Marley & Me (2008),Comedy|Drama,5.31
+65261,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy,14.78
+65514,Ip Man (2008),Action|Drama,6.0
+66097,Coraline (2009),Animation|Fantasy|Thriller,9.65
+66203,He's Just Not That Into You (2009),Comedy|Drama|Romance,8.16
+66934,Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Sci-Fi,5.73
+67087,"I Love You, Man (2009)",Comedy,15.62
+67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",Crime|Drama|Mystery|Thriller,5.24
+67734,Adventureland (2009),Comedy|Drama,18.28
+67923,"Fast & Furious (Fast and the Furious 4, The) (2009)",Action|Crime|Drama|Thriller,19.26
+68135,17 Again (2009),Comedy|Drama,10.6
+68157,Inglourious Basterds (2009),Action|Drama,7.97
+68237,Moon (2009),Drama|Mystery|Sci-Fi|Thriller,9.99
+68319,X-Men Origins: Wolverine (2009),Action|Sci-Fi|Thriller,16.06
+68358,Star Trek (2009),Action|Adventure|Sci-Fi,12.17
+68554,Angels & Demons (2009),Crime|Drama|Mystery|Thriller,9.6
+68791,Terminator Salvation (2009),Action|Adventure|Sci-Fi|Thriller,15.3
+68793,Night at the Museum: Battle of the Smithsonian (2009),Action|Comedy,10.69
+68954,Up (2009),Adventure|Animation|Children|Drama,5.33
+69122,"Hangover, The (2009)",Comedy|Crime,18.88
+69406,"Proposal, The (2009)",Comedy|Romance,9.2
+69481,"Hurt Locker, The (2008)",Action|Drama|Thriller,11.86
+69526,Transformers: Revenge of the Fallen (2009),Action|Adventure|Sci-Fi,17.92
+69644,Ice Age: Dawn of the Dinosaurs (2009),Action|Adventure|Animation|Children|Comedy|Romance,6.24
+69757,(500) Days of Summer (2009),Comedy|Drama|Romance,14.03
+69784,Brüno (Bruno) (2009),Comedy,18.45
+69844,Harry Potter and the Half-Blood Prince (2009),Adventure|Fantasy|Mystery|Romance,18.45
+69951,"Imaginarium of Doctor Parnassus, The (2009)",Drama|Fantasy,6.93
+70183,"Ugly Truth, The (2009)",Comedy|Drama|Romance,8.47
+70286,District 9 (2009),Mystery|Sci-Fi|Thriller,10.95
+70293,Julie & Julia (2009),Comedy|Drama|Romance,9.76
+71057,9 (2009),Adventure|Animation|Sci-Fi,13.78
+71264,Cloudy with a Chance of Meatballs (2009),Animation|Children|Fantasy,9.44
+71464,"Serious Man, A (2009)",Comedy|Drama,14.07
+71530,Surrogates (2009),Action|Sci-Fi|Thriller,8.01
+71535,Zombieland (2009),Action|Comedy|Horror,8.59
+71745,Where the Wild Things Are (2009),Adventure|Children|Drama|Fantasy,9.71
+71899,Mary and Max (2009),Animation|Comedy|Drama,6.38
+72011,Up in the Air (2009),Drama|Romance,7.14
+72226,Fantastic Mr. Fox (2009),Adventure|Animation|Children|Comedy|Crime,13.18
+72378,2012 (2009),Action|Drama|Sci-Fi|Thriller,6.09
+72641,"Blind Side, The  (2009)",Drama,19.68
+72737,"Princess and the Frog, The (2009)",Animation|Children|Fantasy|Romance,14.58
+72998,Avatar (2009),Action|Adventure|Sci-Fi,5.93
+73017,Sherlock Holmes (2009),Action|Crime|Mystery|Thriller,12.48
+73321,"Book of Eli, The (2010)",Action|Adventure|Drama,12.14
+74458,Shutter Island (2010),Drama|Mystery|Thriller,16.44
+74789,Alice in Wonderland (2010),Adventure|Fantasy,16.87
+76077,Hot Tub Time Machine (2010),Comedy|Sci-Fi,9.2
+76093,How to Train Your Dragon (2010),Adventure|Animation|Children|Fantasy,14.68
+76175,Clash of the Titans (2010),Action|Adventure|Drama|Fantasy,17.94
+76251,Kick-Ass (2010),Action|Comedy,7.36
+76293,Date Night (2010),Action|Comedy|Romance,19.88
+77455,Exit Through the Gift Shop (2010),Comedy|Documentary,14.27
+77561,Iron Man 2 (2010),Action|Adventure|Sci-Fi|Thriller,10.43
+78105,Prince of Persia: The Sands of Time (2010),Action|Adventure|Fantasy|Romance,16.58
+78209,Get Him to the Greek (2010),Comedy,5.02
+78469,"A-Team, The (2010)",Action|Comedy|Thriller,6.04
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy,7.93
+78772,"Twilight Saga: Eclipse, The (2010)",Fantasy|Romance|Thriller,17.67
+79057,Predators (2010),Action|Sci-Fi|Thriller,11.86
+79091,Despicable Me (2010),Animation|Children|Comedy|Crime,18.6
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller,14.77
+79134,Grown Ups (2010),Comedy,18.09
+79139,"Sorcerer's Apprentice, The (2010)",Action|Adventure|Children|Comedy|Fantasy,15.37
+79293,Salt (2010),Action|Thriller,19.72
+79592,"Other Guys, The (2010)",Action|Comedy,14.94
+79695,"Expendables, The (2010)",Action|Adventure|Thriller,19.94
+79702,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Romance,16.99
+80219,Machete (2010),Action|Adventure|Comedy|Crime|Thriller,14.08
+80463,"Social Network, The (2010)",Drama,8.71
+80489,"Town, The (2010)",Crime|Drama|Thriller,6.82
+80549,Easy A (2010),Comedy|Romance,18.44
+80906,Inside Job (2010),Documentary,6.93
+81229,Red (2010),Action|Comedy,15.87
+81537,Due Date (2010),Comedy,10.87
+81562,127 Hours (2010),Adventure|Drama|Thriller,8.94
+81564,Megamind (2010),Action|Animation|Children|Comedy|Sci-Fi,18.28
+81591,Black Swan (2010),Drama|Thriller,18.77
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy,17.57
+81845,"King's Speech, The (2010)",Drama,15.12
+81847,Tangled (2010),Animation|Children|Comedy|Fantasy|Romance,7.54
+81932,"Fighter, The (2010)",Drama,8.73
+82461,Tron: Legacy (2010),Action|Adventure|Sci-Fi,17.84
+83134,Tucker & Dale vs Evil (2010),Comedy|Horror,9.46
+83349,"Green Hornet, The (2011)",Action|Comedy|Crime|Fantasy|Thriller,11.53
+84152,Limitless (2011),Sci-Fi|Thriller,11.99
+84374,No Strings Attached (2011),Comedy|Romance,14.9
+84392,"Lincoln Lawyer, The (2011)",Crime|Drama|Thriller,9.4
+84772,Paul (2011),Adventure|Comedy|Sci-Fi,10.13
+84944,Rango (2011),Action|Adventure|Animation|Children|Comedy,13.46
+84954,"Adjustment Bureau, The (2011)",Romance|Sci-Fi|Thriller,9.1
+85414,Source Code (2011),Action|Drama|Mystery|Sci-Fi|Thriller,18.65
+85510,Sucker Punch (2011),Action|Fantasy|Thriller,8.88
+86190,Hanna (2011),Action|Adventure|Mystery|Thriller,11.04
+86332,Thor (2011),Action|Adventure|Drama|Fantasy,16.41
+86644,"Fast Five (Fast and the Furious 5, The) (2011)",Action|Crime|Drama|Thriller,8.89
+86833,Bridesmaids (2011),Comedy,7.68
+86880,Pirates of the Caribbean: On Stranger Tides (2011),Action|Adventure|Fantasy,18.32
+86882,Midnight in Paris (2011),Comedy|Fantasy|Romance,12.96
+86911,"Hangover Part II, The (2011)",Comedy,14.48
+87222,Kung Fu Panda 2 (2011),Action|Adventure|Animation|Children|Comedy,5.21
+87232,X-Men: First Class (2011),Action|Adventure|Sci-Fi|Thriller,17.38
+87306,Super 8 (2011),Mystery|Sci-Fi|Thriller,7.27
+87430,Green Lantern (2011),Action|Adventure|Sci-Fi,18.07
+87520,Transformers: Dark of the Moon (2011),Action|Adventure|Sci-Fi,9.2
+87869,Horrible Bosses (2011),Comedy|Crime,8.73
+88125,Harry Potter and the Deathly Hallows: Part 2 (2011),Action|Adventure|Drama|Fantasy|Mystery,7.08
+88129,Drive (2011),Crime|Drama|Thriller,11.55
+88140,Captain America: The First Avenger (2011),Action|Adventure|Sci-Fi|Thriller,16.9
+88163,"Crazy, Stupid, Love. (2011)",Comedy|Drama|Romance,11.86
+88405,Friends with Benefits (2011),Comedy|Romance,13.32
+88744,Rise of the Planet of the Apes (2011),Action|Drama|Sci-Fi|Thriller,7.18
+88785,"Change-Up, The (2011)",Comedy,14.13
+88810,"Help, The (2011)",Drama,10.79
+89470,Contagion (2011),Sci-Fi|Thriller,15.26
+89492,Moneyball (2011),Drama,5.52
+89745,"Avengers, The (2012)",Action|Adventure|Sci-Fi,11.99
+89774,Warrior (2011),Drama,15.23
+89864,50/50 (2011),Comedy|Drama,14.74
+89904,The Artist (2011),Comedy|Drama|Romance,5.21
+90405,In Time (2011),Crime|Sci-Fi|Thriller,6.77
+90746,"Adventures of Tintin, The (2011)",Action|Animation|Mystery,16.34
+90866,Hugo (2011),Children|Drama|Mystery,8.25
+91077,"Descendants, The (2011)",Comedy|Drama,7.92
+91094,"Muppets, The (2011)",Children|Comedy,10.9
+91485,"Expendables 2, The (2012)",Action|Adventure,15.87
+91500,The Hunger Games (2012),Action|Adventure|Drama|Sci-Fi|Thriller,18.56
+91529,"Dark Knight Rises, The (2012)",Action|Adventure|Crime,11.95
+91535,"Bourne Legacy, The (2012)",Action|Adventure|Drama|Thriller,6.43
+91542,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller,14.56
+91630,Mission: Impossible - Ghost Protocol (2011),Action|Adventure|Thriller,5.47
+91658,"Girl with the Dragon Tattoo, The (2011)",Drama|Thriller,9.78
+92259,Intouchables (2011),Comedy|Drama,7.28
+92535,Louis C.K.: Live at the Beacon Theater (2011),Comedy,16.42
+93326,This Means War (2012),Action|Comedy|Romance,5.57
+93363,John Carter (2012),Action|Adventure|Sci-Fi,8.26
+93510,21 Jump Street (2012),Action|Comedy|Crime,8.9
+93840,"Cabin in the Woods, The (2012)",Comedy|Horror|Sci-Fi|Thriller,14.31
+94677,"Dictator, The (2012)",Comedy,15.58
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),Action|Comedy|Sci-Fi,6.91
+94864,Prometheus (2012),Action|Horror|Sci-Fi,8.9
+94959,Moonrise Kingdom (2012),Comedy|Drama|Romance,19.44
+95167,Brave (2012),Action|Adventure|Animation|Children,15.56
+95441,Ted (2012),Comedy|Fantasy,8.75
+95510,"Amazing Spider-Man, The (2012)",Action|Adventure|Sci-Fi,15.56
+96079,Skyfall (2012),Action|Adventure|Thriller,15.79
+96588,Pitch Perfect (2012),Comedy,15.02
+96610,Looper (2012),Action|Crime|Sci-Fi,11.33
+96737,Dredd (2012),Action|Sci-Fi,10.54
+96821,"Perks of Being a Wallflower, The (2012)",Drama|Romance,14.79
+96829,"Hunt, The (Jagten) (2012)",Drama,7.48
+97225,Hotel Transylvania (2012),Animation|Children|Comedy,6.21
+97304,Argo (2012),Drama|Thriller,8.21
+97306,Seven Psychopaths (2012),Comedy|Crime,16.2
+97752,Cloud Atlas (2012),Drama|Sci-Fi,11.48
+97913,Wreck-It Ralph (2012),Animation|Comedy,11.67
+97921,Silver Linings Playbook (2012),Comedy|Drama,11.9
+97938,Life of Pi (2012),Adventure|Drama,13.62
+98243,Rise of the Guardians (2012),Adventure|Animation|Children|Fantasy,10.82
+98809,"Hobbit: An Unexpected Journey, The (2012)",Adventure|Fantasy,5.98
+98961,Zero Dark Thirty (2012),Action|Drama|Thriller,10.79
+99007,Warm Bodies (2013),Comedy|Horror|Romance,6.77
+99112,Jack Reacher (2012),Action|Crime|Thriller,8.61
+99114,Django Unchained (2012),Action|Drama,10.35
+101864,Oblivion (2013),Action|Adventure|Sci-Fi,7.53
+102123,This Is the End (2013),Action|Comedy,17.45
+102125,Iron Man 3 (2013),Action|Sci-Fi|Thriller,10.09
+102407,"Great Gatsby, The (2013)",Drama,5.75
+102445,Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi,19.01
+102481,"Internship, The (2013)",Comedy,11.95
+102903,Now You See Me (2013),Crime|Mystery|Thriller,15.77
+103042,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi,18.68
+103141,Monsters University (2013),Adventure|Animation|Comedy,8.47
+103228,Pacific Rim (2013),Action|Adventure|Sci-Fi,18.17
+103249,World War Z (2013),Action|Drama|Horror,7.29
+103253,Elysium (2013),Action|Drama|Sci-Fi,19.17
+103335,Despicable Me 2 (2013),Animation|Children|Comedy,11.42
+103341,"World's End, The (2013)",Action|Comedy|Sci-Fi,10.47
+103772,"Wolverine, The (2013)",Action|Adventure|Fantasy|Sci-Fi,8.45
+104211,We're the Millers (2013),Comedy|Crime,16.67
+104241,Kick-Ass 2 (2013),Action|Comedy|Crime,16.51
+104374,About Time (2013),Drama|Fantasy|Romance,16.1
+104841,Gravity (2013),Action|Sci-Fi,11.51
+104879,Prisoners (2013),Drama|Mystery|Thriller,15.46
+104913,Rush (2013),Action|Drama,7.52
+105504,Captain Phillips (2013),Adventure|Drama|Thriller,9.28
+105844,12 Years a Slave (2013),Drama,8.52
+106002,Ender's Game (2013),Action|Adventure|Sci-Fi,15.31
+106072,Thor: The Dark World (2013),Action|Adventure|Fantasy,18.83
+106100,Dallas Buyers Club (2013),Drama,13.65
+106487,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi,7.95
+106489,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy,19.36
+106696,Frozen (2013),Adventure|Animation|Comedy|Fantasy|Romance,9.67
+106782,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,17.86
+106916,American Hustle (2013),Crime|Drama,19.69
+106918,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,16.16
+106920,Her (2013),Drama|Romance|Sci-Fi,7.89
+107348,Anchorman 2: The Legend Continues (2013),Comedy,6.84
+107406,Snowpiercer (2013),Action|Drama|Sci-Fi,17.47
+108190,Divergent (2014),Adventure|Romance|Sci-Fi,19.75
+108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,11.49
+109374,"Grand Budapest Hotel, The (2014)",Comedy|Drama,9.77
+109487,Interstellar (2014),Sci-Fi,5.15
+110102,Captain America: The Winter Soldier (2014),Action|Adventure|Sci-Fi,6.98
+110553,The Amazing Spider-Man 2 (2014),Action|Sci-Fi,18.68
+111113,Neighbors (2014),Comedy,14.55
+111360,Lucy (2014),Action|Sci-Fi,10.51
+111362,X-Men: Days of Future Past (2014),Action|Adventure|Sci-Fi,7.36
+111364,Godzilla (2014),Action|Adventure|Sci-Fi,18.46
+111659,Maleficent (2014),Action|Adventure|Children,18.1
+111743,A Million Ways to Die in the West (2014),Comedy,9.8
+111759,Edge of Tomorrow (2014),Action|Sci-Fi,19.14
+111781,Mission: Impossible - Rogue Nation (2015),Action|Adventure|Thriller,14.64
+112138,22 Jump Street (2014),Action|Comedy|Crime,15.35
+112175,How to Train Your Dragon 2 (2014),Action|Adventure|Animation,5.01
+112183,Birdman: Or (The Unexpected Virtue of Ignorance) (2014),Comedy|Drama,5.91
+112290,Boyhood (2014),Drama,17.3
+112552,Whiplash (2014),Drama,5.62
+112556,Gone Girl (2014),Drama|Thriller,9.14
+112623,Dawn of the Planet of the Apes (2014),Sci-Fi,9.4
+112852,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi,19.28
+114180,"Maze Runner, The (2014)",Action|Mystery|Sci-Fi,9.97
+114662,American Sniper (2014),Action,7.99
+114935,Predestination (2014),Action|Mystery|Sci-Fi|Thriller,9.22
+115149,John Wick (2014),Action|Thriller,16.28
+115210,Fury (2014),Action|Drama,5.49
+115569,Nightcrawler (2014),Crime|Drama|Thriller,12.75
+115617,Big Hero 6 (2014),Action|Animation|Comedy,13.33
+115713,Ex Machina (2015),Drama|Sci-Fi|Thriller,13.9
+116797,The Imitation Game (2014),Drama|Thriller,18.86
+116823,The Hunger Games: Mockingjay - Part 1 (2014),Adventure|Sci-Fi|Thriller,10.79
+116897,Wild Tales (2014),Comedy|Drama|Thriller,19.35
+117176,The Theory of Everything (2014),Drama|Romance,11.87
+117529,Jurassic World (2015),Action|Adventure|Drama|Sci-Fi|Thriller,15.58
+117590,Horrible Bosses 2 (2014),Comedy|Crime,6.56
+118696,The Hobbit: The Battle of the Five Armies (2014),Adventure|Fantasy,6.74
+119141,The Interview (2014),Action|Comedy,12.4
+119145,Kingsman: The Secret Service (2015),Action|Adventure|Comedy|Crime,18.39
+120466,Chappie (2015),Action|Thriller,5.26
+122882,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller,16.97
+122886,Star Wars: Episode VII - The Force Awakens (2015),Action|Adventure|Fantasy|Sci-Fi,14.06
+122892,Avengers: Age of Ultron (2015),Action|Adventure|Sci-Fi,15.13
+122900,Ant-Man (2015),Action|Adventure|Sci-Fi,8.5
+122904,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi,5.61
+122906,Black Panther (2017),Action|Adventure|Sci-Fi,19.69
+122912,Avengers: Infinity War - Part I (2018),Action|Adventure|Sci-Fi,6.28
+122916,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,13.22
+122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,14.92
+122920,Captain America: Civil War (2016),Action|Sci-Fi|Thriller,18.1
+122922,Doctor Strange (2016),Action|Adventure|Sci-Fi,15.36
+122924,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,7.42
+122926,Untitled Spider-Man Reboot (2017),Action|Adventure|Fantasy,8.18
+129354,Focus (2015),Comedy|Crime|Drama|Romance,7.77
+134130,The Martian (2015),Adventure|Drama|Sci-Fi,6.38
+134368,Spy (2015),Action|Comedy|Crime,12.16
+134393,Trainwreck (2015),Comedy|Romance,6.69
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,12.77
+135133,The Hunger Games: Mockingjay - Part 2 (2015),Adventure|Sci-Fi,8.61
+135143,Fantastic Beasts and Where to Find Them (2016),Fantasy,13.08
+135536,Suicide Squad (2016),Action|Crime|Sci-Fi,12.0
+135569,Star Trek Beyond (2016),Action|Adventure|Sci-Fi,8.62
+135887,Minions (2015),Adventure|Animation|Children|Comedy,19.04
+136020,Spectre (2015),Action|Adventure|Crime,5.24
+136864,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi,12.25
+137857,The Jungle Book (2016),Adventure|Drama|Fantasy,10.39
+138036,The Man from U.N.C.L.E. (2015),Action|Adventure|Comedy,19.09
+139385,The Revenant (2015),Adventure|Drama,6.06
+139644,Sicario (2015),Crime|Drama|Mystery,7.74
+140110,The Intern (2015),Comedy,13.26
+142488,Spotlight (2015),Thriller,8.39
+143355,Wonder Woman (2017),Action|Adventure|Fantasy,13.61
+148626,"Big Short, The (2015)",Drama,14.84
+150548,Sherlock: The Abominable Bride (2016),Action|Crime|Drama|Mystery|Thriller,18.69
+152077,10 Cloverfield Lane (2016),Thriller,16.57
+152081,Zootopia (2016),Action|Adventure|Animation|Children|Comedy,19.38
+157296,Finding Dory (2016),Adventure|Animation|Comedy,13.13
+158238,The Nice Guys (2016),Crime|Mystery|Thriller,17.64
+159093,Now You See Me 2 (2016),Action|Comedy|Thriller,6.21
+164179,Arrival (2016),Sci-Fi,15.38
+166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,10.04
+166528,Rogue One: A Star Wars Story (2016),Action|Adventure|Fantasy|Sci-Fi,11.04
+166643,Hidden Figures (2016),Drama,13.8
+168250,Get Out (2017),Horror,19.47
+168252,Logan (2017),Action|Sci-Fi,16.95
+174055,Dunkirk (2017),Action|Drama|Thriller,12.02
+176371,Blade Runner 2049 (2017),Sci-Fi,16.23
+177765,Coco (2017),Adventure|Animation|Children,6.79
+179819,Star Wars: The Last Jedi (2017),Action|Adventure|Fantasy|Sci-Fi,14.02
+187593,Deadpool 2 (2018),Action|Comedy|Sci-Fi,15.56

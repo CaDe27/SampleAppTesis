@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommender</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- JQuery import -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    
+    <!-- Bootstrap import -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+    <!-- To dynamically modify components -->
+    <script src="{{ url_for('static', filename='js/components.js') }}"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <!-- Top Row -->
+        <!-- Search Bar -->
+        <div class="row justify-content-center align-items-top">
+            <div class="col">
+                Movie searcher:
+                <div id="searchBarContainer" class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Search for movies...">
+                </div>
+
+                <!-- Genre Inputs Container (Initially Hidden) -->
+                <div id="genresContainer" class="d-none">
+                    <div class="row" id="genreInputsContainer">
+                        <!-- Genre input groups will be appended here -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-2">
+                <button class="btn btn-info" onclick="window.location.href='status-checker.html';">Status Checker</button>
+            </div>
+            
+        </div>
+
+        <div class="row justify-content-center align-items-center">
+            <div class="col-6">    
+                <!-- Radio Buttons -->
+                <div class="btn-group btn-group-toggle" id = "searchOptions" data-toggle="buttons">
+                    <label class="btn btn-secondary">
+                        <input type="radio" name="searchOptions" id="movie" autocomplete="off"> By movie
+                    </label>
+                    <label class="btn btn-secondary">
+                        <input type="radio" name="searchOptions" id="genre" autocomplete="off"> By genres
+                    </label>
+                    <label class="btn btn-secondary">
+                        <input type="radio" name="searchOptions" id="genre-rating" autocomplete="off"> By genres rating
+                    </label>
+                </div>
+            </div>
+
+        </div>
+        
+        <!-- Third Row -->
+        <div class="row flex-grow-1">
+            <div class="col-2" style="background-color: #eee;">Ad Banner</div>
+            <div class="col">
+                <!-- Grid of Movie Information -->
+                <div class="row" id="moviesGrid">
+                    <!-- Movies will be inserted dynamically here -->
+                </div>
+            </div>
+            <div class="col-2">
+                <div id="cart">Cart</div>
+                <button class="btn btn-primary">Checkout</button>
+                <div>Total Price: <span id="totalPrice">$0.00</span></div>
+            </div>
+        </div>
+    </div>
+        
+    <script>
+        $(document).ready(function() {
+            $('input[type=radio][name=searchOptions]').change(updateSearchComponent);
+            showMovies(getExampleMovies());
+        });
+    </script>
+</body>
+</html>

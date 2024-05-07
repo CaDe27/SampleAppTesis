@@ -1,0 +1,20 @@
+{
+    "host":"localhost",
+    "service_ports": {
+        "ad": 5001,
+        "cart":5002,
+        "currency":5004,
+        "frontend": 5006,
+        "product_catalog": 5008
+    }, 
+    "ports": {
+        "ad": 5001,
+        "cart":5002,
+        "currency":5004,
+        "email":5005,
+        "frontend": 5006,
+        "payment":5007,
+        "product_catalog": 5008,
+        "cart-redis":5011
+    }
+}
